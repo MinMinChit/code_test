@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 1500,
+      "discount": 0
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": 1200,
+      "discount": 12
+    },
+    {
+      "id": 3,
+      "name": "Phone",
+      "price": 400,
+      "discount": 200
+    },
+    {
+      "id": 4,
+      "name": "Keyboard",
+      "price": 200,
+      "discount": 12
+    }
+  ]
+}
